@@ -40,4 +40,6 @@ For the analysis of the stocks, "tickerIndex" variable was created along with ti
 
 ![VBA_Refactored_Analysis](https://user-images.githubusercontent.com/101379969/162602007-b753e90d-149d-4545-af8e-50fae8ecab54.png)
 
-
+## Summary
+Advantages of refactoring code is the code can be made simpler and easier for future users to understand in addition to making the code more efficient reducing its run time. Improving the efficiency of code allows users to run analysis on larger datasets not only faster but use less memory. Also, should additional analysis outputs be needed in the future, simpler code makes for easier edits later. Disadvantages of refactoring of code is that you are making edits to something that is already working. Anytime you make changes you run the risk of breaking existing code. To ensure the edits made, one has to already have a strong understanding of the original code and its relationship to any and all related functions.
+Refactoring the VBA code was beneficial in reducing the runtime of the analysis and reduced the number of steps a user had to complete to run the analysis and format the cells.
